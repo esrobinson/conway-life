@@ -11,3 +11,7 @@
   border: thin solid black;
   box-sizing: border-box;
 }
+
+.alive{
+  background-color: black;
+}
